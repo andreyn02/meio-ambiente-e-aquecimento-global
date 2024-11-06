@@ -9,6 +9,7 @@ var img4;
 var img5;
 var img6;
 var img7;
+var img8;
 
 function preload() {
   img = loadImage("aquecimento global3.png");
@@ -18,4 +19,5 @@ function preload() {
   img5 = loadImage("aquecimento global2.png")
   img6 = loadImage("salvação.jpg")
   img7 = loadImage("Aquecimento-Global-14-770x441.jpg")
+  img8 = loadImage(" img8 = loadImage("preservaçaõ")
 }
